@@ -5,8 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working at bycheck 
-- 🌱 I’m currently work with js & Vue & Nuxt and Quasar
+- 🔭 I’m currently working at kavoshcom 
+- 🌱 I’m currently work with js & ts & Vue & Nuxt and Quasar
+
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
